@@ -1,0 +1,8 @@
+{
+  "name": "MAK Work OS",
+  "description": "A clean, AI-powered internal task and workflow management system designed for MAK's operations, marketing, sales, and support teams.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
